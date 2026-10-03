@@ -1,0 +1,1 @@
+"""Nonprofit contract approval example."""
